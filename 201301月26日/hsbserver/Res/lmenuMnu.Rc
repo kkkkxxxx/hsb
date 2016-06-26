@@ -1,0 +1,12 @@
+#define IDR_MENU 9000
+IDR_MENU MENUEX
+BEGIN
+  POPUP "文件",9001
+  BEGIN
+    MENUITEM "查看桌面",9002
+    MENUITEM "查看视频",9003
+    MENUITEM "语音监听",9004
+    MENUITEM "文件管理",9005
+    MENUITEM "远程命令",9006
+  END
+END

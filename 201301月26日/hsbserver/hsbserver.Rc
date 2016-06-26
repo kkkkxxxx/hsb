@@ -1,0 +1,16 @@
+#include "Res/CmdFormDlg.rc"
+#include "Res/hsbserverVer.rc"
+#include "Res/FileManageDlg.rc"
+#include "Res/dmenuMnu.rc"
+#include "Res/DesktopFormDlg.rc"
+#include "Res/lmenuMnu.rc"
+#include "Res/hsbserverDlg.rc"
+
+
+
+
+
+
+
+
+1288	ICON	"MAINICON.ICO"
